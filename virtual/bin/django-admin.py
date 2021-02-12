@@ -1,4 +1,4 @@
-#!/home/access/Documents/personal_portfolio/virtual/bin/python
+#!/home/access/eid-portfolio/virtual/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
